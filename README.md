@@ -1,4 +1,5 @@
-<h1>Hi, I'm Yasin, an <a href="https://www.linkedin.com/in/YasinAlesmael/">IT Professional</a>☺</h1>
+<h1>Hello, I'm Yasin! 🚀</h1>
+<p>An aspiring <a href="https://www.linkedin.com/in/YasinAlesmael/" target="_blank">IT Professional</a> extremely passionate about technology and problem solving.</p>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -10,8 +11,12 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/yasinalesmael/configure-ad)
   - [Group Policy Management and Inspecting Event Viewer logs](https://github.com/yasinalesmael/gpm-eventvwr)
 
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Yasin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/YasinAlesmael
+<h2>🤝 Let's Network:</h2>
+<p>
+  <a href="https://linkedin.com/in/YasinAlesmael" target="_blank">
+    <img align="left" alt="Yasin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="mailto:yasin@alesmael.com" target="_blank">
+    <img align="left" alt="Yasin | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+</p>
