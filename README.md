@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/yasinalesmael/configure-ad)
   - [Group Policy Management and Inspecting Event Viewer logs](https://github.com/yasinalesmael/gpm-eventvwr)
 - <b>VPN Configuration</b>
-  - [Placeholder](https://github.com/yasinalesmael/vpn-config)
+  - [OpenVPN](https://github.com/yasinalesmael/openvpn-config)
 
 <h2>🤝 Let's Network:</h2>
 <p>
