@@ -10,8 +10,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/yasinalesmael/configure-ad)
   - [Group Policy Management and Inspecting Event Viewer logs](https://github.com/yasinalesmael/gpm-eventvwr)
-- <b>VPN Configuration</b>
+- <b>Misc</b>
   - [OpenVPN](https://github.com/yasinalesmael/openvpn)
+  - [VPN Monitor](https://github.com/yasinalesmael/VPN-Monitor)
 
 <h2>🤝 Let's Network:</h2>
 <p>
