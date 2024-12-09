@@ -13,6 +13,7 @@
 - <b>Misc</b>
   - [OpenVPN](https://github.com/yasinalesmael/openvpn)
   - [VPN Monitor](https://github.com/yasinalesmael/VPN-Monitor)
+  - [System Diagnostics Script](https://github.com/yasinalesmael/diag-script)
 
 <h2>🤝 Let's Network:</h2>
 <p>
